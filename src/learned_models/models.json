@@ -1,0 +1,58 @@
+[
+	{
+		"id": -1,
+		"name": "_tokenizer",
+		"ru_name": "_tokenizer",
+		"file": "tokenizer.pickle",
+		"path": "./src/learned_models/",
+		"model": null
+	},
+	{
+		"id": 0,
+		"name": "cnn",
+		"ru_name": "Сверточная нейронная сеть",
+		"file": "model_cnn.h5",
+		"path": "./src/learned_models/",
+		"model": null
+	},
+	{
+		"id": 1,
+		"name": "lstm",
+		"ru_name": "Краткосрочная нейронная сеть",
+		"file": "model_lstm.h5",
+		"path": "./src/learned_models/",
+		"model": null
+	},
+	{
+		"id": 2,
+		"name": "gru",
+		"ru_name": "Вентельная нейронная сеть",
+		"file": "model_gru.h5",
+		"path": "./src/learned_models/",
+		"model": null
+	},
+	{
+		"id": 3,
+		"name": "Random forest classifier",
+		"ru_name": "Случайный лес",
+		"file": "model_rfc.pkl",
+		"path": "./src/learned_models/",
+		"model": null
+	},
+	{
+		"id": 4,
+		"name": "CatBoost",
+		"ru_name": "CatBoost",
+		"file": "model_catboost.pkl",
+		"path": "./src/learned_models/",
+		"model": null
+	},
+	{
+		"id": 5,
+		"name": "Logistic regression",
+		"ru_name": "Логистическая регрессия",
+		"file": "model_logistic_regression.pkl",
+		"path": "./src/learned_models/",
+		"model": null
+	}
+]
