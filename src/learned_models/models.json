@@ -9,7 +9,7 @@
 	},
 	{
 		"id": 0,
-		"name": "cnn",
+		"name": "CNN",
 		"ru_name": "Сверточная нейронная сеть",
 		"file": "model_cnn.h5",
 		"path": "./src/learned_models/",
@@ -17,7 +17,7 @@
 	},
 	{
 		"id": 1,
-		"name": "lstm",
+		"name": "LSTM",
 		"ru_name": "Краткосрочная нейронная сеть",
 		"file": "model_lstm.h5",
 		"path": "./src/learned_models/",
@@ -25,7 +25,7 @@
 	},
 	{
 		"id": 2,
-		"name": "gru",
+		"name": "GRU",
 		"ru_name": "Вентельная нейронная сеть",
 		"file": "model_gru.h5",
 		"path": "./src/learned_models/",
